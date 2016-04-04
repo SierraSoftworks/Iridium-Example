@@ -1,0 +1,21 @@
+{
+  "name": "iridium-template",
+  "version": "1.0.0",
+  "description": "A project template making use of Iridium",
+  "main": "dist/Application.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "keywords": [
+    "iridium",
+    "template"
+  ],
+  "author": "Benjamin Pannell <admin@sierrasoftworks.com>",
+  "license": "MIT",
+  "dependencies": {
+    "iridium": "^6.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.9"
+  }
+}
