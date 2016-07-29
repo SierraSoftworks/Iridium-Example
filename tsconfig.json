@@ -1,14 +1,12 @@
 {
     "compilerOptions": {
-        "target": "es5",
+        "target": "es6",
         "outDir": "dist",
         "sourceMap": true,
         "experimentalDecorators": true,
-        "moduleResolution": "classic"
+        "moduleResolution": "node"
     },
     "exclude": [
-        "node_modules",
-        "typings/browser",
-        "typings/browser.d.ts"
+        "node_modules/**"
     ]
 }
