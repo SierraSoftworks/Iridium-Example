@@ -1,5 +1,4 @@
 import * as Iridium from "iridium";
-import * as Promise from "bluebird";
 
 import {FooDocument, Foo} from "./models/Foo";
 
