@@ -13,7 +13,7 @@
   "author": "Benjamin Pannell <admin@sierrasoftworks.com>",
   "license": "MIT",
   "dependencies": {
-    "iridium": "7.0.0-alpha.11"
+    "iridium": "7.0.0"
   },
   "devDependencies": {
     "typescript": "~2.0.0",
