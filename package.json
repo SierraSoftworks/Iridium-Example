@@ -13,13 +13,13 @@
   "author": "Benjamin Pannell <admin@sierrasoftworks.com>",
   "license": "MIT",
   "dependencies": {
-    "iridium": "7.0.0"
+    "iridium": "^7.2.1"
   },
   "devDependencies": {
-    "typescript": "~2.0.0",
+    "typescript": "~2.3.4",
     "@types/chai": "^3.4.34",
-    "@types/bluebird": "^3.0.35",
-    "@types/lodash": "^4.14.37",
-    "@types/mongodb": "^2.1.33"
+    "@types/bluebird": "^3.5.5",
+    "@types/lodash": "^4.14.65",
+    "@types/mongodb": "^2.2.4"
   }
 }
